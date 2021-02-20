@@ -88,10 +88,12 @@ Retail Company – Director
 * Russian - native speaker 
 
 **Language Practice**
-\ Participation in the program “ Work and Travel USA”
-\ Summer 2006 - Waitress, Boston, MA, USA
-\ Summer 2007 - Waitress,
-\ Ocean City, NJ, USA
+
+Participation in the program “ Work and Travel USA”
+
+Summer 2006 - Waitress, Boston, MA, USA
+
+Summer 2007 - Waitress, Ocean City, NJ, USA
 
 ## **Summary**
 Passionate about project work both as a business analyst and as a developer: from idea, describing processes, elicitation and formalizing requirements, describing prototypes to realization in code. My experience in the company's management gave me the possibility to organize and optimize business processes so I can outline problems, opportunities and solutions. My technical background let me leverage it for deeper understanding of the development process. 
