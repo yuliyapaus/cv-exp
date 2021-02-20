@@ -2,7 +2,7 @@
 
 ### **Contact information**
 +375 29 609 63 75 (Telegram, Viber)
-yuliya.paus@gmail.com
+/yuliya.paus@gmail.com
 
 ## **EDUCATION**
 
@@ -54,7 +54,7 @@ Retail Company – Director
 * Developing module “Analytics”, describing business logic of the system in code, making database structure for the whole system. 
 * Working out the frontend for my module (tables, forms, charts), using different libraries 
 * Collaborating with the development team, Agile, Scrum, using Trello, MantisHub 
-* [The project's Git] (https://github.com/yuliyapaus/GAZ)
+* [The project's Git](https://github.com/yuliyapaus/GAZ)
 
 ```
  function findShort(s){
@@ -69,6 +69,7 @@ Retail Company – Director
 - Requirements’ modelling: BPMN, UMN. DFD, IDEF0 notations
 - UI prototyping: Axure, Balsamiq, Drawio
 - Jira
+
 **Technical skills:**
 - Databases, SQL
 - Python
@@ -81,16 +82,16 @@ Retail Company – Director
 
 ## **LANGUAGES**
 
-**English - B2**
-German - А2
-Spanish - А1
-Russian - native speaker 
+* **English - B2**
+* German - А2
+* Spanish - А1
+* Russian - native speaker 
 
 **Language Practice**
-Participation in the program “ Work and Travel USA”
-Summer 2006 - Waitress, Boston, MA, USA
-Summer 2007 - Waitress,
-Ocean City, NJ, USA
+\ Participation in the program “ Work and Travel USA”
+\ Summer 2006 - Waitress, Boston, MA, USA
+\ Summer 2007 - Waitress,
+\ Ocean City, NJ, USA
 
 ## **Summary**
 Passionate about project work both as a business analyst and as a developer: from idea, describing processes, elicitation and formalizing requirements, describing prototypes to realization in code. My experience in the company's management gave me the possibility to organize and optimize business processes so I can outline problems, opportunities and solutions. My technical background let me leverage it for deeper understanding of the development process. 
