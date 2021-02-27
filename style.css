@@ -4,3 +4,23 @@ aside {
     width: 40%;
     float: right;
 }
+
+img {
+    width:150px;
+    height: auto;
+    border-radius: 50%;
+    align-self: center;
+    }
+    
+section, aside, header {
+    display: block
+}
+
+main {
+    padding: 20px;
+}
+
+aside {
+    padding: 30px;
+    
+}
