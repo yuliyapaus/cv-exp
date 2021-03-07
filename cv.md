@@ -16,7 +16,6 @@ International economic relations.
 #### *IT-Academy* – Databases Essentials
 *november 2019*
 
-
 ## **WORK EXPERIENCE**
 
 Retail Company – Director
@@ -31,7 +30,6 @@ Retail Company – Director
 * Communication with customers, staff, stakeholders, government offices 
 * Personnel management: recruitment, onboarding,  assessment
 * Developing and implementing regulatory documents, instructions. algorithms, standards 
-
 
 ## **PROJECTS**
 
