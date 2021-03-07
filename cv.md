@@ -31,7 +31,6 @@ Retail Company – Director
 * Personnel management: recruitment, onboarding,  assessment
 * Developing and implementing regulatory documents, instructions. algorithms, standards 
 
-
 ## **PROJECTS**
 
 **IT Academy Internship – business analyst**
