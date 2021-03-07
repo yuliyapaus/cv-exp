@@ -16,7 +16,6 @@ International economic relations.
 #### *IT-Academy* – Databases Essentials
 *november 2019*
 
-
 ## **WORK EXPERIENCE**
 
 Retail Company – Director
